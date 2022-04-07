@@ -1,0 +1,29 @@
+body {
+    padding: 25px;
+    background-image: url("bacgr.jpg");
+    background-size: cover;
+}
+
+.container  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.graphContainer {
+    position: relative;
+    width: 80vw;
+    height: 70vh; 
+};
+.HELLO {
+    background-color: red;
+    padding: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+};
+.HELLOOO {
+    height: 2000px;
+    background-color: blueviolet;
+}
